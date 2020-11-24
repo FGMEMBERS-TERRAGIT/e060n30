@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac 66.933333 30.25 1589.22 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 66.889167 30.296978 1558.12 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac 66.94718 30.25038 1593.82 221.73
+# END dsf2stg
